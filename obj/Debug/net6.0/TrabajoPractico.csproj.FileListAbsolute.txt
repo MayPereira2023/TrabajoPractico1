@@ -1,0 +1,14 @@
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.AssemblyInfoInputs.cache
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.AssemblyInfo.cs
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.csproj.CoreCompileInputs.cache
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\bin\Debug\net6.0\TrabajoPractico.exe
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\bin\Debug\net6.0\TrabajoPractico.deps.json
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\bin\Debug\net6.0\TrabajoPractico.runtimeconfig.json
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\bin\Debug\net6.0\TrabajoPractico.dll
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\bin\Debug\net6.0\TrabajoPractico.pdb
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.dll
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\refint\TrabajoPractico.dll
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.pdb
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\TrabajoPractico.genruntimeconfig.cache
+C:\Users\walmay\Documents\UNLAM\Programacion Avanzada 2\source\repos\TrabajoPractico\obj\Debug\net6.0\ref\TrabajoPractico.dll
